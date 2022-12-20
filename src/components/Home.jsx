@@ -51,9 +51,7 @@ const Home = () => {
             businesses, and we work closely with them to develop a customized
             strategy that meets their specific needs. We pride ourselves on
             staying up-to-date with the latest social media trends and
-            techniques, and we are always looking for ways to improve and
-            innovate our services. We are dedicated to providing top-notch
-            service and delivering measurable results for our clients.
+            techniques.
           </p>
         </div>
       </div>
